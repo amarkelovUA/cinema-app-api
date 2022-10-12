@@ -2,7 +2,7 @@
 
 ### :rainbow: ABOUT
 This REST-FULL web-app is built using the Spring Framework.
-The program operates with such entities as user, cinema hall, movie, movie session, ticket. order and shopping cart.
+The program operates with such entities as user, cinema hall, movie, movie session, ticket, order and shopping cart.
 The user can get lists of cinema halls, movies, and movies sessions.
 He can also view all available movie viewing sessions on a given day. And of course he can create an order.
 Admin can add, delete and modify movies, cinema halls and movies sessions.
