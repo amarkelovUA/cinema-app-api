@@ -28,7 +28,7 @@ The project has an N-Tier Architecture.
 + Service
 > all business logic takes place at the service level
 + Controller
-> interacts with the user
+> receives requests from a client and sends responses to them
 
 ### :eyes: INSTRUCTIONS FOR LAUNCHING THE PROJECT:
 1. Fork this repository
